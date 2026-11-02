@@ -42,6 +42,7 @@ After that watch this machine learning prerequisites- https://www.youtube.com/pl
 If you need a super friendly youtube tutorial cause you don't understand my study guide or then go this https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF 
 
 They are from broCode and StatQuest with Josh Starmer - very helpful tutorials
+They are the basis for this study guide... I got tired prompting and making improvements so It look like I just copy righted StatQuest with Josh Starmer👀...shhh🫣
 
 If you have Any questions regrading how the system works... I have absolutely no idea. Plus I only have about 20% knowledge on machine learning(still learning)so I don't know if my study guide is fully helpful after a couple of modules. But Anyway Goodluck!!!😁😁
 ---
