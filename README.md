@@ -33,6 +33,8 @@ The Upgrade: Transferred the exact same visual intuition framework to the LureLo
 Layer 6: Automated Browser Verification & Offline Packaging
 The Upgrade: Verified every tab, slider, and canvas via headless Microsoft Edge automated testing over Chrome DevTools Protocol (CDP), asserting 0 console errors, before bundling everything into standalone, offline-ready deliverables (ML_and_LureLock_Interactive_Academies.zip).
 
+The study guide still needs more improvements specially for dumb people like me. But no worries since I'll still be continuing to improve this😎. Or you can make your own. Me don't give a fuck(*/ω＼*)
+
 If you have Any questions regrading how the system works... I have absolutely no idea. Anyway Goodluck!!!😁😁
 ---
 
