@@ -1,6 +1,6 @@
 # 🚀 Interactive Machine Learning & LureLock Cybersecurity Academies
 
-A comprehensive, interactive pair of web-based academies designed for zero-to-mastery education in **Machine Learning Engineering** and **Cybersecurity Phishing Threat Forensics**, equipped with **in-browser Pyodide WebAssembly Python 3.12 execution** that runs on **iOS Safari, Android, macOS, Linux, and Windows** without requiring any local backend server!
+A comprehensive, interactive pair of web-based academies designed for zero-to-mastery education in **Machine Learning Engineering** and **Cybersecurity Phishing Threat Forensics**, equipped with **in-browser Pyodide WebAssembly Python 3.12 execution** that runs on **iOS Safari, Android, macOS, Linux, and Windows** without requiring any local backend server! *refer to the zip file
 
 OR Check the website---https://boggyman101.github.io/Machine-Learning-Guide-NOOB-MASTERY-/
 
