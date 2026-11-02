@@ -43,7 +43,7 @@ If you need a super friendly youtube tutorial cause you don't understand my stud
 
 They are from broCode and StatQuest with Josh Starmer - very helpful tutorials
 
-If you have Any questions regrading how the system works... I have absolutely no idea. Anyway Goodluck!!!😁😁
+If you have Any questions regrading how the system works... I have absolutely no idea. Plus I only have about 20% knowledge on machine learning(still learning)so I don't know if my study guide is fully helpful after a couple of modules. But Anyway Goodluck!!!😁😁
 ---
 
 ## 🌟 What's Included
