@@ -35,6 +35,14 @@ The Upgrade: Verified every tab, slider, and canvas via headless Microsoft Edge 
 
 The study guide still needs more improvements specially for dumb people like me. But no worries since I'll still be continuing to improve this😎. Or you can make your own. Me don't give a fuck(*/ω＼*)
 
+if you are interested in Machine learning but don't know python which is the preferred programming language for machine learning then go watch this tutorial- https://www.youtube.com/watch?v=ix9cRaBkVe0&t=12635s
+
+After that watch this machine learning prerequisites- https://www.youtube.com/playlist?list=PLZPZq0r_RZOO_wKfxdnAb9BgnffGtIHjR
+
+If you need a super friendly youtube tutorial cause you don't understand my study guide or then go this https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF 
+
+They are from broCode and StatQuest with Josh Starmer - very helpful tutorials
+
 If you have Any questions regrading how the system works... I have absolutely no idea. Anyway Goodluck!!!😁😁
 ---
 
