@@ -5,26 +5,31 @@ A comprehensive, interactive pair of web-based academies designed for zero-to-ma
 OR Check the website---https://boggyman101.github.io/Machine-Learning-Guide-NOOB-MASTERY-/
 
 IMPORTANT NOTE* This project is made using gemini tools in my quest to make the best study guide to Machine learning.
-using multiple layer 6-layer iterative prompt-and-refine pipeline, with each layer directly solving a usability gap:
+using a layer 6-layer iterative prompt-and-refine pipeline, with each layer directly solving a usability gap:
 
 Layer 1: Real-Time Interactivity & Parameter Dictionaries
 Prompt Trigger: "Change data and show graph real time... reset button doesn't work... dictionary explaining every word and function parameter."
 The Upgrade: Created interactive Matplotlib canvas studios with real-time slider controls and deep parameter-by-parameter breakdowns (explaining every keyword argument like autopct, explode, startangle).
+
 Layer 2: Multi-Library Synergy & Real Enterprise ML
 Prompt Trigger: "Too little combination of libraries... only one sample using XGBoost, make more using other models."
 The Upgrade: Expanded into multi-library production pipelines combining Pandas + NumPy + Scikit-Learn + Imbalanced-Learn + XGBoost across regression, classification, and clustering.
+
 Layer 3: Visual Pedagogy & "No Math Phobia"
 Prompt Trigger: "Using the StatQuest book & video playlist, create a tab for a much simpler explanation that even a 15-year-old can understand... formulas explicitly explained."
 The Upgrade: Added the Visual Intuition Studio, replacing academic gatekeeping with token-by-token formula dissection, circled steps (①, ②, ③), everyday analogies, and interactive canvas labs.
+
 Layer 4: Real-World Sample Problems & Values on Every Cell
 Prompt Trigger: "Missing a sample problem for each topic... don't copy his identity (copyright)... put values on each cell for better visualization."
 The Upgrade:
 Built dedicated Real-World Sample Problem Cards with given evidence tables containing explicit numbers in every cell.
 Added interactive recalculation sliders that dynamically update walkthrough math in real time.
 Ensured 100% original, copyright-safe branding (Visual ML Studio, AHA! Mentor Bot, Jargon Decoder).
+
 Layer 5: Specialized Threat Intelligence (The LureLock Engine)
 Prompt Trigger: "Same improv for LureLock."
 The Upgrade: Transferred the exact same visual intuition framework to the LureLock cybersecurity thesis: 8 visual chapters (Shannon Entropy, Lexical Clues, Character N-Grams, XGBoost Gain, 300-Tree Tug-of-War, 6-Stage Cleaning Funnel) and upgraded all live simulators with concrete numbers on every bar, node, and rope marker.
+
 Layer 6: Automated Browser Verification & Offline Packaging
 The Upgrade: Verified every tab, slider, and canvas via headless Microsoft Edge automated testing over Chrome DevTools Protocol (CDP), asserting 0 console errors, before bundling everything into standalone, offline-ready deliverables (ML_and_LureLock_Interactive_Academies.zip).
 
